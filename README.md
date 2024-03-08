@@ -36,6 +36,7 @@
 ###
 
 <div align="center">
+  <p align="center">Profile counter</p>
   <img src="https://profile-counter.glitch.me/f04c/count.svg?"  />
 </div>
 
